@@ -13,6 +13,9 @@ input,
 button {
   font-family: "Press Start 2P", system-ui;
 } */
+body {
+  background-color: #05081c;
+}
 
 .playr {
   font-family: "Play", system-ui;
@@ -59,7 +62,7 @@ button {
   display: flex;
   flex-direction: column;
   padding: 14px;
-  background: #eff6ff;
+  background: #05081c;
   gap: 14px;
 }
 
